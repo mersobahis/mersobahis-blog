@@ -12,9 +12,6 @@ Bu repo, blog yazılarının açık kaynaklı şekilde paylaşılması için olu
 - 📌 Casino oyun incelemeleri
 - 📌 Sorumlu oyun bilgilendirmeleri
 
-## Katkıda Bulunma
-Her türlü öneri ve katkı için `Pull Request` gönderebilirsiniz.  
-
 ---
 
 ✍️ **Resmi kaynaklar:**
